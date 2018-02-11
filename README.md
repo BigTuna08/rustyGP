@@ -1,4 +1,4 @@
-# gp
+# rustyGP
 
 ### Genetic Programming System implemented in Rust (A work in progress)
 
