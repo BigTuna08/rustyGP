@@ -1,0 +1,6 @@
+[package]
+name = "rusty_gp"
+version = "0.1.0"
+authors = ["Kyle Nickerson <kln870@mun.ca>"]
+
+[dependencies]
