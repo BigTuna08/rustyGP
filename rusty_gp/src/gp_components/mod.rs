@@ -4,3 +4,6 @@ pub mod offspring_creators;
 pub mod evaluators;
 pub mod surivor_selectors;
 pub mod examiners;
+pub mod traits;
+pub mod programs;
+pub mod populations;
